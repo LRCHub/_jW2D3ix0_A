@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "カフェ樂園",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-17T12:24:31.571143Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カフェ樂園",
+      "artist": "≠ME",
+      "has_synced": true,
+      "path": "select/01_カフェ樂園_≠ME.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カフェ樂園",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_カフェ樂園_≠ME.txt"
+    }
+  ]
+}
